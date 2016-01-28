@@ -12,6 +12,7 @@ int sub(int a, int b) {
 
 int main() {
 	cout << "Hello world!" << endl;
+	cout << "test done" << endl;
 
 	return 0;
 }
